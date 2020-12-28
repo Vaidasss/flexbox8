@@ -1,0 +1,149 @@
+
+
+body {
+
+   background-color:#bbbdbf;
+
+}
+
+header {
+
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+
+}
+
+h3 {
+
+  color:#a3a3a3;
+
+}
+
+h4 {
+
+  font-family: 'Montserrat', sans-serif; 
+
+}
+
+
+p {
+
+ font-family: 'Montserrat', sans-serif;
+ color:#acaeb0;
+ font-size: 12px;
+
+}
+
+
+.viskas	{
+
+ display: flex;
+ /*flex-direction: row;*/
+ flex-wrap: wrap;
+ /*align-content: space-around;*/
+ /*margin:120px;*/
+ /*padding: 20px;*/
+ padding-bottom:30px;
+ justify-content:center;
+
+}
+
+
+.kortele {
+
+background-color:#f7f7f7;
+height:400px;
+width: 260px;
+display: flex;
+flex-direction: column;
+border-radius: 2%; 
+align-items: center;
+border: 1px solid white; 
+margin:20px;
+
+}
+
+
+.vieta {
+
+display: flex;
+flex-direction: row;
+text-align: center;
+font-size: 15px;
+
+
+
+}
+
+.foto	{
+
+height:100px;
+width: 100px;
+border-radius: 50%; 
+margin-top: 20px;
+
+}
+
+
+.adresas {
+
+font-size: 10px;
+color:#545252;
+
+}
+
+
+span {
+
+width: 25px;
+height: 25px;
+/*
+border: 1px solid black;  
+border-radius: 50%;
+box-sizing: border-box; <galima būtų pratrinti, bet taip lengviau
+pasigauti simbolį> 
+*/
+padding-top: 2px;
+margin: 3px;
+letter-spacing: -15px;
+color: #acaeb0;
+
+}
+
+
+i {
+	
+width: 25px;
+height: 25px;
+color:#acaeb0;    
+border: 1px solid #acaeb0;
+border-radius: 50%;
+box-sizing: border-box;
+padding-top: 3px;
+margin: 5px;
+
+}
+
+
+.soctinklas	{
+
+text-align: center;
+display: flex;
+font-size:18px;
+margin: 10px;
+
+}
+
+
+.aprasas	{
+
+margin-left: 20px;
+margin-right: 20px;
+text-align: center;
+
+}
+
+
+
+
+
